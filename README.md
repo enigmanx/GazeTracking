@@ -17,7 +17,7 @@ so that the gaze point on the screen can be calculated contact me.
 
 ##Link OpenCV
 
-Execute export OpenCV_DIR=/usr/local/opt/opencv3/share/OpenCV if it is correct path to OpenCV
+Execute 'export OpenCV_DIR=/usr/local/opt/opencv3/share/OpenCV' if it is correct path to OpenCV
 
 ##Building
 
