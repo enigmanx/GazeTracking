@@ -15,6 +15,10 @@ where the user is looking.
 If anyone with more experience than me has ideas on how to effectively track a reference point or head pose
 so that the gaze point on the screen can be calculated contact me.
 
+##Link OpenCV
+
+Execute export OpenCV_DIR=/usr/local/opt/opencv3/share/OpenCV if it is correct path to OpenCV
+
 ##Building
 
 CMake is required to build eyeLike.
